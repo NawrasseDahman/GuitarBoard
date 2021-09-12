@@ -6,10 +6,10 @@ with open("README.md", "r", encoding="utf-8") as f:
 setuptools.setup(
     name="guitarboard",
     version="0.0.2",
-    author="Stefano Bazzi",
+    author="Nawrasse Dahman",
     description="Play live guitar (or mic) in you shell with python.",
     long_description=long_description,
-    url="https://github.com/stefanobazzi/guitarboard",
+    url="https://github.com/NawrasseDahman/GuitarBoard",
     package_dir={"": "src"},
     packages=setuptools.find_packages(where="src"),
     python_requires=">=3.9",
