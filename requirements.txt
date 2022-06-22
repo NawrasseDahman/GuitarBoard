@@ -11,7 +11,7 @@ idna==3.2
 importlib-metadata==4.8.1
 jeepney==0.7.1
 keyring==23.1.0
-numpy==1.21.2
+numpy==1.22.0
 packaging==21.0
 pedalboard==0.3.5
 pep517==0.11.0
